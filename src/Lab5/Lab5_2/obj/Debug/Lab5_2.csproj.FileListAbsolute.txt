@@ -1,0 +1,11 @@
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.csproj.AssemblyReference.cache
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.Properties.Resources.resources
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.csproj.GenerateResource.cache
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.csproj.CoreCompileInputs.cache
+C:\Users\jarciN0\source\repos\C#\Lab5_2\bin\Debug\Lab5_2.exe.config
+C:\Users\jarciN0\source\repos\C#\Lab5_2\bin\Debug\Lab5_2.exe
+C:\Users\jarciN0\source\repos\C#\Lab5_2\bin\Debug\Lab5_2.pdb
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.Form1.resources
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.exe
+C:\Users\jarciN0\source\repos\C#\Lab5_2\obj\Debug\Lab5_2.pdb
